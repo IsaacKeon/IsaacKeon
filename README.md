@@ -11,8 +11,6 @@
 <div align="center">
  
  🎓 Im currently studying **software engineering**.
- 
- 🌱 I’m currently learning **Java Language**.
 
  </div>
 
@@ -31,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,c,java,eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,python,c,java,eclipse" /><br>
 </div>
 
 <br/>
